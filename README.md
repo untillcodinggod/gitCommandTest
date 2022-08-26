@@ -1,1 +1,1 @@
-"# Git Custom Command Test" 
+# Git Custom Command Test 
